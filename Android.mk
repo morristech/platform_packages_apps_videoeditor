@@ -6,7 +6,7 @@ LOCAL_SRC_FILES := \
 
 LOCAL_PACKAGE_NAME := VideoEditor
 
-LOCAL_JAVA_LIBRARIES :=
+LOCAL_JAVA_LIBRARIES := framework2
 
 LOCAL_PROGUARD_FLAGS := -include $(LOCAL_PATH)/proguard.flags
 
